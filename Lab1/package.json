@@ -1,0 +1,10 @@
+{
+  "name": "Lab1",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "dependencies": {
+    "three": "^0.121.1"
+  }
+}
